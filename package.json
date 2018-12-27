@@ -34,6 +34,6 @@
     "eslint": "eslint . --ext jsm,js,json",
     "lint": "npm-run-all lint:*",
     "lint:eslint": "npm run eslint",
-    "lint:web-ext-lint": "web-ext lint",
+    "lint:web-ext-lint": "web-ext lint"
   }
 }
