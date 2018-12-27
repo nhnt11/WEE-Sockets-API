@@ -1,5 +1,5 @@
 {
-  "name": "Sockets WebExtension Experiment",
+  "name": "WEE-Sockets-API",
   "description": "Provides a WebExtension interface to play with platform sockets",
   "version": "1.0.0",
   "author": "Nihanth Subramanya",
