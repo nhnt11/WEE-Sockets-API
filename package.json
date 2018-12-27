@@ -28,7 +28,7 @@
   "private": true,
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/nhnt11/WEE-Sockets-API"
   },
   "scripts": {
     "eslint": "eslint . --ext jsm,js,json",
