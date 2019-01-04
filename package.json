@@ -25,7 +25,7 @@
     "openwpm"
   ],
   "license": "MPL-2.0",
-  "private": true,
+  "module": "lib/socket.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/nhnt11/WEE-Sockets-API"
