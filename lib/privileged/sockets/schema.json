@@ -56,6 +56,10 @@
           {
             "type": "string",
             "name": "data"
+          },
+          {
+            "type": "string",
+            "name": "serializationIdent"
           }
         ]
       },
